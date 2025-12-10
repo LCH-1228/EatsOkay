@@ -18,7 +18,7 @@
 3. [주요기능](#features)
 4. [개발기간](#duration)
 5. [기술스택](#tech-stack)
-6. [기술적 의사결정] (#tech-decision)
+6. [기술적 의사결정](#tech-decision)
 7. [DataFlow](#DataFlow)
 8. [샘플이미지](#sample-images)
 
